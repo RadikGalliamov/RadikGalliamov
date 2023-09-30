@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## QA Engineer (manual, auto)
 - 🔭 I’m currently working on QA Engineer (manual, auto)
 - 🌱 I’m currently learning Python, Selenium, Automation UI, API
   
