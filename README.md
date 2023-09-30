@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python, Selenium, Automation UI, API
 
-
+[My linkedin💬](https://www.linkedin.com/in/galliamovrr/?locale=en_US)
 
   
 <!--
