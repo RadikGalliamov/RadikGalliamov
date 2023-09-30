@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on QA Engineer (manual, auto)
-- 🌱 I’m currently learning Automation with python
+- 🌱 I’m currently learning Python, Selenium, Automation UI, API
   
 <!--
 **RadikGalliamov/RadikGalliamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
