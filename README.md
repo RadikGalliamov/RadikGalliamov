@@ -1,7 +1,7 @@
 ### Hi there 👋, my name's Radik
 ## I'm QA Engineer
 
-- 🌱 I’m currently learning Python, Selenium, Automation UI, API
+- 🌱 I’m currently learning Python, Selenium, UI Automation, API
 
 [My linkedin💬](https://www.linkedin.com/in/galliamovrr/?locale=en_US)
 
