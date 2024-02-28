@@ -1,5 +1,5 @@
 ### Hi👋, my name's Radik
-## I'm QA Engineer
+## I'm QA Automation Engineer
 
 - 🌱 I’m currently learning Python, Selenium, UI Automation, API
 
